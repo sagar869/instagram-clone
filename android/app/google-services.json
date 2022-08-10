@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160304836012",
+    "project_id": "demo1-88325",
+    "storage_bucket": "demo1-88325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160304836012:android:b34a96d4f0686a0ce3de09",
+        "android_client_info": {
+          "package_name": "com.mediatonix.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160304836012-kjqmn4sia29ain9mdl92l6ukjp11fr20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qr1LalOIP4wumkaooT12e8Nx_HxDleA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160304836012-kjqmn4sia29ain9mdl92l6ukjp11fr20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
